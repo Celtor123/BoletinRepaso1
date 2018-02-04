@@ -47,10 +47,5 @@ public class Boletinrepaso1 {
 
 
 
-//10 – Calcula a nota media  de un alumno que ten 6 módulos .
-//11 – Supon que nunha clase están 3 alumnos . Calcula a nota media para cada un dos alumnos .
-//
-//12- Queremos codificar un programa que calcule a nota media de unha serie de alumnos. 
-//Como en cada unha das clases ,o nº de alumnos é distinto .Cando rematemos de visualizar unha media  preguntamos se queremos repetir o proceso . 
-//Se  a resposta e “si” volvemos a empezar co 2º …. 
-//E así con todos ata que a resposta sexa distinta de “si”.
+
+
