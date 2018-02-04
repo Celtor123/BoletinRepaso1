@@ -44,8 +44,8 @@ public class Boletinrepaso1 {
 
 
 
-//7- Codifica o programa anterior tendo en conta que o lado non pode ser negativo .
-//8- Completa o programa anterior para que calcule o área de varios cadrados .Remata o programa cando o valor do lado sexa 0 ( condición de fin ).
+
+
 //9- Sumar unha serie de números que pedimos por teclado . Cando a suma sexa 100 ou superior visualizamos o resultado .
 //10 – Calcula a nota media  de un alumno que ten 6 módulos .
 //11 – Supon que nunha clase están 3 alumnos . Calcula a nota media para cada un dos alumnos .
