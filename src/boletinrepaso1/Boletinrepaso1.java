@@ -46,7 +46,7 @@ public class Boletinrepaso1 {
 
 
 
-//9- Sumar unha serie de números que pedimos por teclado . Cando a suma sexa 100 ou superior visualizamos o resultado .
+
 //10 – Calcula a nota media  de un alumno que ten 6 módulos .
 //11 – Supon que nunha clase están 3 alumnos . Calcula a nota media para cada un dos alumnos .
 //
